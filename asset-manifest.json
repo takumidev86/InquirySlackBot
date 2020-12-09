@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/InquirySlackBot/static/css/main.f2b3900d.chunk.css",
+    "main.js": "/InquirySlackBot/static/js/main.a37ae9ad.chunk.js",
+    "main.js.map": "/InquirySlackBot/static/js/main.a37ae9ad.chunk.js.map",
+    "runtime-main.js": "/InquirySlackBot/static/js/runtime-main.6834fddf.js",
+    "runtime-main.js.map": "/InquirySlackBot/static/js/runtime-main.6834fddf.js.map",
+    "static/js/2.d3de0a8c.chunk.js": "/InquirySlackBot/static/js/2.d3de0a8c.chunk.js",
+    "static/js/2.d3de0a8c.chunk.js.map": "/InquirySlackBot/static/js/2.d3de0a8c.chunk.js.map",
+    "static/js/3.010701d0.chunk.js": "/InquirySlackBot/static/js/3.010701d0.chunk.js",
+    "static/js/3.010701d0.chunk.js.map": "/InquirySlackBot/static/js/3.010701d0.chunk.js.map",
+    "index.html": "/InquirySlackBot/index.html",
+    "static/css/main.f2b3900d.chunk.css.map": "/InquirySlackBot/static/css/main.f2b3900d.chunk.css.map",
+    "static/js/2.d3de0a8c.chunk.js.LICENSE.txt": "/InquirySlackBot/static/js/2.d3de0a8c.chunk.js.LICENSE.txt",
+    "static/media/no-profile.67b6df19.png": "/InquirySlackBot/static/media/no-profile.67b6df19.png",
+    "static/media/takumi.4379ef04.jpeg": "/InquirySlackBot/static/media/takumi.4379ef04.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6834fddf.js",
+    "static/js/2.d3de0a8c.chunk.js",
+    "static/css/main.f2b3900d.chunk.css",
+    "static/js/main.a37ae9ad.chunk.js"
+  ]
+}
