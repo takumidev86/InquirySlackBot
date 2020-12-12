@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+https://takumidev86.github.io/InquirySlackBot/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
